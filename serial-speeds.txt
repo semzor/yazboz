@@ -1,0 +1,1 @@
+The Linux kernel on a modern PC supports a serial console speeds of 1200, 2400, 4800, 9600, 19200, 38400, 57600 and 115200 bits per second. Very recent Linux kernels can also offer a serial console using a USB serial dongle at speeds of 1200, 2400, 4800, 9600, 19200, 38400, 57600 and 115200 bits per second.
